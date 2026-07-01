@@ -125,7 +125,7 @@ An interactive dashboard was built in Power BI featuring:
 **📸 Dashboard Screenshot:**
 
 <!-- Add your dashboard image below. Recommended: save the image as `assets/dashboard.png` in this repo, then keep the line below as is. -->
-![Customer Behavior Dashboard](assets/dashboard.png)
+![image alt](https://github.com/RaaFieL99/Customer_Behaviour_Analysis/blob/cb3e13e5d00fbccff8e6f657da9636f6d84d2f84/Screenshot%202025-12-24%20120554.png)
 
 ---
 
